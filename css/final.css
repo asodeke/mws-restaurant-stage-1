@@ -99,11 +99,12 @@ figcaption {
   #restaurant-container {
     order: -1;
     width: 100%;
+    margin: 440px 0 0 0;
   }
 
   .inside #map-container {
     width: 100%;
-    position: relative;
+    position: absolute;
     max-height: 20%;
   }
 
